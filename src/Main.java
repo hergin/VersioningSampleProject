@@ -4,4 +4,8 @@ public class Main {
         System.out.println("Hello, versioning!");
     }
 
+    public static void printSomething() {
+        System.out.println("Something");
+    }
+
 }
